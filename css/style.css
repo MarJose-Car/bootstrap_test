@@ -1,0 +1,21 @@
+
+/*on reserve un espace dans le haut de la page pour que le texte du début ne soit pas sous la navigation*/
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+main {
+    background: rgb(247, 211, 7);
+}
+.fleches {
+    color: rgba(182, 135, 16, 0.5);
+    background: goldenrod;
+}
+.item{
+    background: rgba(211, 81, 6, 0.5);
+    color: rgb(248, 105, 9);
+
+}
