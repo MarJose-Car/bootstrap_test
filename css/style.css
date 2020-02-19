@@ -10,7 +10,25 @@ body {
 main {
     background: rgb(247, 211, 7);
 }
-.fleches {
+.rose {
+    background: rgb(223, 182, 188);
+}
+.bleu {
+    background: rgb(176, 225, 231);
+}
+.vert {
+    background: rgb(95, 219, 149);
+}
+.rouge {
+    background: rgb(250, 160, 160);
+}
+.lime {
+    background: rgb(169, 240, 169);
+}
+h2 {
+    text-align: center;
+}
+/* .fleches {
     color: rgba(182, 135, 16, 0.5);
     background: goldenrod;
 }
@@ -18,4 +36,4 @@ main {
     background: rgba(211, 81, 6, 0.5);
     color: rgb(248, 105, 9);
 
-}
+} */
